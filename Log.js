@@ -12,6 +12,7 @@ class Log{
         Matter.Body.setAngle(this.body,angle);
         World.add(world,this.body);
         //console.log(angle);
+        //message
     }
     display()
     {
